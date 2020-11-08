@@ -17,16 +17,18 @@ It was announced on December 20, 2016, that Asheron's Call would close all its s
 - [ACViewer](https://github.com/ACEmulator/ACViewer)
 - [DungeonViewerAC](https://github.com/derandark/DungeonViewerAC). Partially updated to Throne of Destiny (textures may be missing)
 - [zExplorer (AC2)](http://www.zuggsoft.com/zexplorer/zexplorerinfo.htm)
+- Lifestoned (content editor): [Website](https://lifestoned.org/) • [Source](https://gitlab.com/Scribble/lifestoned)
 
 ## 3rd-Party Client Software
 
 - AC2D: [Reddit post](https://www.reddit.com/r/AsheronsCall/comments/5ksfn6/ac2d_acserver_source_on_github/) • [Website](http://www.akilla.net/ac2d/) • [Github](https://github.com/deregtd/AC2D). Supposedly can be used to fly around the world offline as well.
 - [Bael'Zharon's Respite](https://github.com/boardwalk/bzr). Status unknown.
 
-## 3rd-Party Server Software
+## 3rd-Party Server Software ("Emulators")
 
 - [ACEmulator](https://github.com/ACEmulator/ACE)
 - [ACServer (very old)](https://github.com/deregtd/ACServer)
+- [GDLEnhanced2](https://gitlab.com/Scribble/gdlenhanced)
 
 ## Compilations/Packs
 
